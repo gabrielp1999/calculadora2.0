@@ -1,2 +1,2 @@
 # projeto calculadora 2.0
-### È uma calculadora que desenvolvi como projeto do curso de Javascript.  
+### para ver o repositorio rodando só clicar no link https://gabrielp1999.github.io/calculadora2.0/
